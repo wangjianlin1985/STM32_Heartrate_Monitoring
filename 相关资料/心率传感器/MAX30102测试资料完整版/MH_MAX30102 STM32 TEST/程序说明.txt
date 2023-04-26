@@ -1,0 +1,22 @@
+﻿功能实现：采用STM32F103C8T6小板，驱动血氧心率传感器max30102，实现PPG信号采集，并将计算的心率和血氧值显示在0.96寸OLED和串口上。
+软件实现：ST标准库3.5
+硬件连接：
+MAX30102:
+	VCC<->3.3V
+	GND<->GND
+	SCL<->PB7
+	SDA<->PB8
+	IM<->PB9
+0.96inch OLED :
+	VCC<->3.3V
+	GND<->GND
+	SCL<->PA5
+	SDA<->PA6
+	RST<->PA3
+	DC<->PA4
+	CS<->PA2
+USB-TTL:
+	5V<->5V
+	GND<->GND
+	RXD<->PA9
+	TXD<->PA10

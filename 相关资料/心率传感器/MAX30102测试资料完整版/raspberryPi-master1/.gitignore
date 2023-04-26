@@ -1,0 +1,7 @@
+
+.DS_Store
+.idea/
+__pycache__/
+read_from_dht11.py.bak
+referrance/
+test.py

@@ -1,0 +1,39 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/layout/main.xml
+SHA1-Digest: AG8wr3QtZfffnVjeiY5Uq7kjHHo=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: i7vxaosoiS+9HzKB7ZgIsXMYRLY=
+
+Name: AndroidManifest.xml
+SHA1-Digest: /gDOp0ysUqEUmu+ygRu/5BVKFMk=
+
+Name: res/layout/device_list.xml
+SHA1-Digest: IOfT+0lvciF5BhHG4dSohQEGc9o=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: 7Ft/Rirt+l/JRX2KjDREScdbCZk=
+
+Name: res/layout/message.xml
+SHA1-Digest: d6gSIX1IHwx/0CByPIplj5viUYA=
+
+Name: res/layout/sname.xml
+SHA1-Digest: n2vM/pih+ZeKOaxgTnm0DV+sdmo=
+
+Name: resources.arsc
+SHA1-Digest: GfryfL3QpnOiBNrHcM01JV128z0=
+
+Name: res/menu/option_menu.xml
+SHA1-Digest: 8bMkQadKGNY+ogLiMHDFvP2RS88=
+
+Name: res/layout/device_name.xml
+SHA1-Digest: d6gSIX1IHwx/0CByPIplj5viUYA=
+
+Name: classes.dex
+SHA1-Digest: 1ET4PvyWKJo3xzUi3dAkZY7o38Q=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: Vj/qhxk8ic8FE0/kT6E3vgRJ4mE=
+
